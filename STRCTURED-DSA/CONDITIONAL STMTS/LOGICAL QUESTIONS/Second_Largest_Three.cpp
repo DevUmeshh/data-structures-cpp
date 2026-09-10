@@ -14,11 +14,5 @@ int main() {
         cout << "Second Largest = " << b;
 
     }
-    else {
-        cout << "Second Largest = " << c;
-    }
-
-    return 0;
-}
 
 
