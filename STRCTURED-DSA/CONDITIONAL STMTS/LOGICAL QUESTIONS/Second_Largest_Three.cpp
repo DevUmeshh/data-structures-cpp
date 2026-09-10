@@ -13,12 +13,6 @@ int main() {
     else if ((b > a && b < c) || (b < a && b > c)) {
         cout << "Second Largest = " << b;
 
-    }
-    else {
-        cout << "Second Largest = " << c;
-    }
 
-    return 0;
-}
 
 
