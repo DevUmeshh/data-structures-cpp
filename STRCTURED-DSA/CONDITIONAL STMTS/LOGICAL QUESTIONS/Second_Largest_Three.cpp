@@ -18,7 +18,3 @@ int main() {
         cout << "Second Largest = " << c;
     }
 
-    return 0;
-}
-
-
