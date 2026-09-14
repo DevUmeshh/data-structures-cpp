@@ -16,3 +16,10 @@ int main() {
     }
     else {
         cout << "Second Largest = " << c;
+
+   }
+    return 0;
+}
+
+
+
